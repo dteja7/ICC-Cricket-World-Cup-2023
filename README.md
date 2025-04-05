@@ -1,24 +1,24 @@
-📌 Overview
+## 📌 Overview
 
 This project analyzes the ICC Cricket World Cup 2023 using data analytics techniques to uncover insights about team performance, player statistics, and match trends. The analysis helps understand key factors contributing to wins and losses in the tournament.
 
 ![ICC CWC image](https://github.com/user-attachments/assets/68776f7a-2894-4daf-a440-67ad7e23473b)
 
 
-📊 Key Insights
+## 📊 Key Insights
 
 - Team performance metrics (win/loss ratio, run rates, bowling economy, etc.)
 - Top-performing players (highest run scorers, wicket-takers, MVPs)
 - Match-wise analysis and trend identification
 - Head-to-head statistics and historical comparisons
 
-🔧 Tech Stack
+## 🔧 Tech Stack
 
 - Python: Data cleaning and data analysis
 - Pandas & NumPy: Data manipulation
 - Matplotlib & Seaborn: Data visualization
 
-📂 Dataset
+## 📂 Dataset
 
 The dataset includes:
 - Match details (teams, venue, date, toss winner, match winner)
@@ -26,7 +26,7 @@ The dataset includes:
 - Team statistics (total scores, partnerships, bowling figures)
 - Historical World Cup data for comparison
 
-🛠️ Steps Performed
+## 🛠️ Steps Performed
 
 1. Data Collection & Cleaning:
    - Compiled match data from ICC sources
